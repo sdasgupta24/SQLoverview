@@ -512,5 +512,5 @@ ON b.id = t.Tid;
        WHERE score > 90;
        
        DROP view res1;
-       
+         /* editing and checking for github desktop */
       
